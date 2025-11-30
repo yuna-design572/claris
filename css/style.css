@@ -189,6 +189,9 @@ h1:hover,
 
 
 @media (min-width: 769px) {
+.heading-large{
+    font-size: 4rem;
+}
 h1{
     font-size: 14rem;
 }
